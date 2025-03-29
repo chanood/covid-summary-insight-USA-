@@ -1,57 +1,52 @@
-state,estimate base,2020,2021,2022,2023,2024
-Alabama,5025369,5033094,5049196.0,5076181.0,5117673.0,5157699.0
-Alaska,733395,733017,734420.0,734442.0,736510.0,740133.0
-Arizona,7158110,7187135,7274078.0,7377566.0,7473027.0,7582384.0
-Arkansas,3011553,3014546,3026870.0,3047704.0,3069463.0,3088354.0
-California,39555674,39521958,39142565.0,39142414.0,39198693.0,39431263.0
-Colorado,5775324,5787129,5814036.0,5850935.0,5901339.0,5957493.0
-Connecticut,3607701,3579918,3606607.0,3617925.0,3643023.0,3675069.0
-Delaware,989955,991928,1005062.0,1020625.0,1036423.0,1051917.0
-District of Columbia,689545,670917,669256.0,676725.0,687324.0,702250.0
-Florida,21538192,21592035,21831949.0,22379312.0,22904868.0,23372215.0
-Georgia,10713755,10732888,10792060.0,10931805.0,11064432.0,11180878.0
-Hawaii,1455252,1451252,1447029.0,1440359.0,1441387.0,1446146.0
-Idaho,1839140,1849415,1904848.0,1944299.0,1971122.0,2001619.0
-Illinois,12821814,12799088,12700641.0,12621821.0,12642259.0,12710158.0
-Indiana,6786587,6790497,6815907.0,6844545.0,6880131.0,6924275.0
-Iowa,3190546,3191141,3198613.0,3202820.0,3218414.0,3241488.0
-Kansas,2937745,2938172,2938338.0,2937324.0,2951500.0,2970606.0
-Kentucky,4506302,4508318,4507583.0,4519233.0,4550595.0,4588372.0
-Louisiana,4657874,4652301,4627971.0,4593687.0,4588071.0,4597740.0
-Maine,1363196,1364571,1378931.0,1390922.0,1399646.0,1405012.0
-Maryland,6181629,6177935,6179403.0,6192440.0,6217062.0,6263220.0
-Massachusetts,7033132,6994598,7000474.0,7022468.0,7066568.0,7136171.0
-Michigan,10079338,10072703,10041351.0,10050877.0,10083356.0,10140459.0
-Minnesota,5706692,5710735,5718660.0,5721621.0,5753048.0,5793151.0
-Mississippi,2961278,2958536,2947209.0,2941939.0,2943172.0,2943045.0
-Missouri,6154854,6154744,6171374.0,6179414.0,6208038.0,6245466.0
-Montana,1084216,1087230,1106522.0,1122095.0,1131302.0,1137233.0
-Nebraska,1961996,1963387,1964537.0,1972246.0,1987864.0,2005465.0
-Nevada,3105595,3116967,3148141.0,3176116.0,3214363.0,3267467.0
-New Hampshire,1377546,1378756,1387677.0,1396678.0,1402199.0,1409032.0
-New Jersey,9289014,9272794,9270541.0,9295227.0,9379642.0,9500851.0
-New Mexico,2117555,2118606,2117333.0,2113868.0,2121164.0,2130256.0
-New York,20203772,20105171,19848276.0,19703747.0,19737367.0,19867248.0
-North Carolina,10441499,10449652,10564320.0,10710793.0,10881189.0,11046024.0
-North Dakota,779046,779563,777966.0,781057.0,789047.0,796568.0
-Ohio,11799453,11798905,11767344.0,11777874.0,11824034.0,11883304.0
-Oklahoma,3959405,3965415,3992238.0,4026229.0,4063882.0,4095393.0
-Oregon,4237224,4243779,4254280.0,4247372.0,4253653.0,4272371.0
-Pennsylvania,13002909,12996143,13015571.0,12984990.0,13017721.0,13078751.0
-Rhode Island,1097354,1096530,1097246.0,1099498.0,1103429.0,1112308.0
-South Carolina,5118252,5132249,5194274.0,5287935.0,5387830.0,5478831.0
-South Dakota,886729,887948,896492.0,909723.0,918305.0,924669.0
-Tennessee,6912347,6927904,6965740.0,7062217.0,7148304.0,7227750.0
-Texas,29149458,29239570,29570351.0,30113488.0,30727890.0,31290831.0
-Utah,3271608,3284077,3339738.0,3391011.0,3443222.0,3503613.0
-Vermont,643082,642977,647210.0,648142.0,648708.0,648493.0
-Virginia,8631388,8637615,8658910.0,8683414.0,8734685.0,8811195.0
-Washington,7707586,7727209,7743760.0,7794123.0,7857320.0,7958180.0
-West Virginia,1793736,1791646,1785618.0,1774122.0,1770495.0,1769979.0
-Wisconsin,5894170,5897375,5881608.0,5903975.0,5930405.0,5960975.0
-Wyoming,576844,577681,579636.0,581978.0,585067.0,587618.0
-,,,,,,
-Puerto Rico,3285874,3281590,3262711.0,3220137.0,3203792.0,3203295.0
-"The Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance protection of the confidential source data used to produce this product (Data Management System (DMS) number:  P-6000042 and P-7501659. Disclosure Review Board (DRB) approval number: CBDRB-FY25-0078).",,,,,,
-"Note: The estimates are developed from a base that integrates the 2020 Census, Vintage 2020 estimates, and (for the U.S. only) 2020 Demographic Analysis estimates.  For population estimates methodology statements, see https://www.census.gov/programs-surveys/popest/technical-documentation/methodology.html. See Geographic Terms and Definitions at https://www.census.gov/programs-surveys/popest/guidance-geographies/terms-and-definitions.html for a list of the states that are included in each region. All geographic boundaries for the 2024 population estimates series are as of January 1, 2024.",,,,,,
-Suggested Citation:,,,,,,
+State,State Code,Region,Division
+Alaska,AK,West,Pacific
+Alabama,AL,South,East South Central
+Arkansas,AR,South,West South Central
+Arizona,AZ,West,Mountain
+California,CA,West,Pacific
+Colorado,CO,West,Mountain
+Connecticut,CT,Northeast,New England
+District of Columbia,DC,South,South Atlantic
+Delaware,DE,South,South Atlantic
+Florida,FL,South,South Atlantic
+Georgia,GA,South,South Atlantic
+Hawaii,HI,West,Pacific
+Iowa,IA,Midwest,West North Central
+Idaho,ID,West,Mountain
+Illinois,IL,Midwest,East North Central
+Indiana,IN,Midwest,East North Central
+Kansas,KS,Midwest,West North Central
+Kentucky,KY,South,East South Central
+Louisiana,LA,South,West South Central
+Massachusetts,MA,Northeast,New England
+Maryland,MD,South,South Atlantic
+Maine,ME,Northeast,New England
+Michigan,MI,Midwest,East North Central
+Minnesota,MN,Midwest,West North Central
+Missouri,MO,Midwest,West North Central
+Mississippi,MS,South,East South Central
+Montana,MT,West,Mountain
+North Carolina,NC,South,South Atlantic
+North Dakota,ND,Midwest,West North Central
+Nebraska,NE,Midwest,West North Central
+New Hampshire,NH,Northeast,New England
+New Jersey,NJ,Northeast,Middle Atlantic
+New Mexico,NM,West,Mountain
+Nevada,NV,West,Mountain
+New York,NY,Northeast,Middle Atlantic
+Ohio,OH,Midwest,East North Central
+Oklahoma,OK,South,West South Central
+Oregon,OR,West,Pacific
+Pennsylvania,PA,Northeast,Middle Atlantic
+Rhode Island,RI,Northeast,New England
+South Carolina,SC,South,South Atlantic
+South Dakota,SD,Midwest,West North Central
+Tennessee,TN,South,East South Central
+Texas,TX,South,West South Central
+Utah,UT,West,Mountain
+Virginia,VA,South,South Atlantic
+Vermont,VT,Northeast,New England
+Washington,WA,West,Pacific
+Wisconsin,WI,Midwest,East North Central
+West Virginia,WV,South,South Atlantic
+Wyoming,WY,West,Mountain
